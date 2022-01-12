@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_7.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../../../flutter/packages/flutter/lib/src/material/dialog.dart","../../../../../flutter/packages/flutter/lib/src/material/dialog_theme.dart","../../../../../flutter/packages/flutter/lib/src/widgets/media_query.dart","../../../../../flutter/packages/flutter/lib/src/widgets/implicit_animations.dart","../../../../../flutter/packages/flutter/lib/src/widgets/basic.dart","../../../../../flutter/packages/flutter/lib/src/widgets/framework.dart","../../../../../flutter/packages/flutter/lib/src/animation/tween.dart"],
+  "names": ["Dialog","Dialog.build","MediaQuery.removeViewInsets","EdgeInsetsGeometryTween.lerp","AnimatedPadding.createState","State","_AnimatedPaddingState.forEachTween","_AnimatedPaddingState.build","_AnimatedPaddingState.forEachTween.<anonymous function>","of","","removeViewInsets","_AnimatedPaddingState","AnimatedWidgetBaseState","ImplicitlyAnimatedWidgetState","_ImplicitlyAnimatedWidgetState&State&SingleTickerProviderStateMixin","_debugLifecycleState","widget","animation","evaluate"],
+  "mappings": "A;0DAwCQA;kCAYcA,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;CAmFbC,MC3CQA,0BAAYA,YCyuBlBA,OAAwDA,KF5rBJA,YAAcA;GAY/BA;cAAuBA;GAIjBA;WAAyBA,SAAYA;GACvCA;WAAaA;GACrBA;cAASA;AAHhCA,kBAMEA,IADOA,gBADKA;AAlB7BA,OG+pBFA,WDzKMC,SAqMGA,OAAwDA,GA3GhCD,gBEwrC3BA,eAmZNA,UJ9oE6BA,gBAVlBA,KADGA,QAwBdA,C;;EG9CmBE,IAAqCA,eAAKA,OAAOA;CAAOA;AAAtCA,QAAuCA,C;AAgtBxEC;EATqCA,GAAiBA,sBE4DHC,GF5D0BD,C;;EAa5EE,IAC0HA,IAA7HA,UAAWA,SAAQA,QEuCLA,EAAOA,GFvCwBA,aAC/CA,C;CAGOC,kBAEMA;CAAQA;AAvecA;AAsejCA,OC85BIA,SD55BCA,MG9xBoCA,OAAoBA,UH+xBvCA,KAAyBA,SE+BjCA,EAAOA,QF5BvBA,C;;AApuBAC;EAytB+CA,IAAmBA,gBAAqCA,cAAsBA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "2nBAwIgDSsC;AACGAY;sKACxCCW;AAIaCAE0kBbDS,AAEYDU,gB;AFtkBRCe;AAEEAU;yGGuqB2CAmB;yBAAAAAAStDAAAhSSAAAvMAAAAAAAAE0hB0CMG,A,A,A,A,A;yDF9CxBCK;kDAOfCa;OAFPRS;MACYSiB;cAGVFU;kCATuDPoB;"
+  }
+}

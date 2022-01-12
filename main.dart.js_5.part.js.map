@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_5.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../../../flutter/packages/flutter/lib/src/painting/image_resolution.dart","../../../../../flutter/packages/flutter/lib/src/foundation/synchronous_future.dart","../../../../../flutter/packages/flutter/lib/src/painting/image_provider.dart","org-dartlang-sdk:///lib/_internal/js_runtime/lib/core_patch.dart","org-dartlang-sdk:///lib/_internal/js_runtime/lib/native_typed_data.dart","org-dartlang-sdk:///lib/async/future_impl.dart","org-dartlang-sdk:///lib/collection/splay_tree.dart","org-dartlang-sdk:///lib/_internal/js_runtime/lib/regexp_helper.dart","org-dartlang-sdk:///lib/async/future.dart"],
+  "names": ["AssetImage._manifestParser","AssetBundleImageKey.==","AssetBundleImageKey.hashCode","AssetBundleImageKey.toString","AssetBundleImageProvider.load","AssetBundleImageProvider._loadAsync","AssetImage.keyName","AssetImage.obtainKey","_Completer.future","Completer","AssetImage._chooseVariant","AssetImage._findBestVariant","AssetImage._parseScale","AssetImage.==","AssetImage.hashCode","AssetImage.toString","AssetImage.obtainKey.<anonymous function>","AssetImage._extractRatioRegExp","","runtimeType","asUint8List","_AsyncCompleter","future","_Completer","containsKey","groupCount","group"],
+  "mappings": "A;;;;GAkV4CA,IACxCA;WACEA,OC7TJA,kBDsUAA;AAPgEA,QAAtBA;AACCA;;AAC+BA;AACtEA,WAFuCA,gBAEvCA;AADsEA,QAClCA,KAAkCA,IAAhBA,iBAGxDA,OCrUFA,eDsUAA,C;;;;;;;;;;;;;;;;;CE8QcC,MACZA;AADcA,mBAOhBA;AANYA,YCziBYA,OD0iBpBA,QAKJA;AAJEA,2BACaA,MAAUA,KACVA,MAAQA,KACRA,MAASA,EACxBA,C;EAGQC,IAAYA,eAAWA,OAAQA,OAAMA,uEAAMA,C;CAG5CC,IAAcA,qCAA4DA,4BAAgBA,gBAAeA,eAAOA,C;;AAwB9GC;EATYA,QASnBA,kBACSA,cAESA,SADLA,GAIfA,C;EAOiBC,MACLA,mBAcZA,C;EAfiBA,MACLA;mBADKA,cACLA;gCE5nBuCA;;AFgoB/CA;YAAiBA,wBAAjBA;;;;;;;AAL+EA,2BAO3CA;AACpCA,aAR+EA;;;;;mBAW3CA;AACpCA,UAAMA,4BAEDA,OEzoBgBA;AFyoBvBA;;OAdeA;;AACLA,wBADKA,C;;GFtZNC,GAAWA,WAAkBA,EAA0CA,C;EAoBtDC,kBAO+BA;WAAUA;;AAInEA,2BAAqFA,aAAiBA,KACpGA,0BAyBAA,GAAWA;GAOTA;AAAJA,WAGEA,QAMJA;AKzDAC,WAAyBA;AA7OrBC,CLoSFF;AACAA,QACFA,C;EAeQG,qBACKA;AAA6DA,6BACtEA,QASJA;AAP+CA;AAC7CA;AACEA,MAAQA,cAIHA,CAAiDA;AAAxDA,mBACFA,C;EAcQC,MACNA;AMmI+BA,YNlItBA;CAAiBA;AAAxBA,QAgBJA,CAfwBA;AACAA;AACtBA,WACEA,OAAOA,QAYXA;AAXEA,WACEA,OAAOA,QAUXA;AAJEA,kBACEA,OAAOA,QAGXA;KADIA,OAAOA,QACXA,C;EAIOC,IACLA;WAAWA,GACTA,QAaJA;AAV2BA;AAEZA,SAAaA,UACCA,QAAsBA,OAAaA;AAGzCA,UAAoBA;aOjNrBA,EAAOA,gBAJsBA;APuNjCA,CAAoBA;AAAlCA,eAEJA,CADEA,QACFA,C;CAGcC,MAAEA,mBAMhBA;AALYA,YG9VYA,UH+VpBA,QAIJA;AAHEA,0BACaA,UAAWA,cAE1BA,C;EAGQC,IAAYA,WAAWA,eAASA,2EAAOA,C;CAGxCC,IAAcA,4BAAmDA,wBAAgBA,eAAUA,C;;;EArI9FC,IAEIA,gBADwBA,4BAGEA,OAASA;AAHXA,UAExBA;CAEDA;AEySDA,YFtSUA,KAFiBA;;GAMvBA;AAAJA,WAIEA;KChSRA,CDsSQA,kBAEHA,C;;;EACUA,MAKFA,MAATA,UACDA,C;;;;;;;;;;;gBAsEiBC,IAAsBA,+BAAtBA,A",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "iRAoVakBkB;0IAQFAe;qTEgRkBCO;uhBA+DNCW;0PAAAAuB;wSF7VPFAQyoBaAAH76BvBAAA1B0BIAAAAJmB,A,A,C,A;sNLyWxBMY;oSAiCuBCkB;AACLCM;6EAMGPU;kZAnHWDY;oDAerBAC;"
+  }
+}

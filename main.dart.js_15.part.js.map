@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_15.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../../../flutter/packages/flutter/lib/src/widgets/sliver.dart","../../../../../flutter/packages/flutter/lib/src/foundation/assertions.dart","../../../../../flutter/packages/flutter/lib/src/widgets/basic.dart","../../../../../flutter/packages/flutter/lib/src/widgets/automatic_keep_alive.dart"],
+  "names": ["SliverChildBuilderDelegate","SliverChildBuilderDelegate.findIndexByKey","SliverChildBuilderDelegate.build","_createErrorWidget","SliverChildBuilderDelegate.estimatedChildCount","SliverChildBuilderDelegate.shouldRebuild",""],
+  "mappings": "A;0DAoVQA;6CAaoCA,C;;;;;;;;;;;;EAiFrCC,IAEDA,WAUJA,C;EAIQC,QAAuCA;AAE7CA,iBAAiDA;KAAjDA;KACEA,QAqBJA;ACjFMC;ID+DaD,0BAN4BA;AAO3CA;AChEEC,iCDw1CKD;AAEEA;AACMA,UAxxCjBA,WACEA,QAaJA;IAXyBA,aAAoCA;CAAGA;AA1P1DA,mBAoQqBA;AARQA;AEi2L7BA;AF/1L8CA;AAChDA,WEkmNEA;AF9lNgCA;AG5bhCA;AH6bJA,OE0nNIA,aFznNNA,C;GAGSE,GAAuBA,aAAUA,C;EAGrCC,IAAmEA,QAAIA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "+dA0ccGAAmxCwBGW,A;6CAnxCxBHAAmxCwBGiC,yC;mDA9wCGAmB;QAE3BAgB;wBAIEAkB;IAGFAgB;OACHAa;"
+  }
+}
